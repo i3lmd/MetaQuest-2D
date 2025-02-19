@@ -4,10 +4,10 @@
 **MetaQuest 2D** is a lightweight 2D exploration game built using vanilla JavaScript and the Canvas API. Designed with a tile-based movement system, the game features handcrafted maps created with Tiled Map Editor and a seamless collision detection mechanism.
 
 **Features**
-🚀 Smooth tile-based movement
-🗺️ Custom-designed levels using Tiled Editor
-🎨 Handcrafted sprite-based environment
-⚡ Optimized rendering with HTML5 Canvas
+1. 🚀 Smooth tile-based movement
+2. 🗺️ Custom-designed levels using Tiled Editor
+3. 🎨 Handcrafted sprite-based environment
+4. ⚡ Optimized rendering with HTML5 Canvas
 
 ## Technology Stack
 -  JavaScript (Vanilla, Canvas API)
