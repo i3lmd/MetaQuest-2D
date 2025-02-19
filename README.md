@@ -10,22 +10,22 @@
 ⚡ Optimized rendering with HTML5 Canvas
 
 ## Technology Stack
-1. JavaScript (Vanilla, Canvas API)
-2. HTML & CSS
-3. Tiled Map Editor (for level design)
-3. JSON-based collision mapping
+-  JavaScript (Vanilla, Canvas API)
+-  HTML & CSS
+-  Tiled Map Editor (for level design)
+-  JSON-based collision mapping
 
 ## Getting Started
 Clone the repository:
-- 1- git clone https://github.com/yourusername/metaquest-2d.git
-- 2- Open index.html in your browser.
+1. ```bash git clone https://github.com/yourusername/metaquest-2d.git
+2. Open index.html in your browser.
 
 ## How to Play
-- 🎮 Use the arrow keys (⬆️⬇️⬅️➡️) to navigate.
+- 🎮 Use the arrow keys (W, A , S , D) to navigate.
 - 🛑 Avoid obstacles and explore the world!
 
 ## Potential Enhancements
-- 1. ✨ NPC interactions & quests
-- 2. 🔊 Background music & sound effects
-- 3. 🎞️ Improved sprite animations
-- 4. 🌆 Extra Maps
+1. ✨ NPC interactions & quests
+2. 🔊 Background music & sound effects
+3. 🎞️ Improved sprite animations
+4. 🌆 Extra Maps
