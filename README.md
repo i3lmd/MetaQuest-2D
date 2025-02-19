@@ -17,8 +17,7 @@
 
 ## Getting Started
 Clone the repository:
-1.    ```bash
-   git clone https://github.com/yourusername/metaquest-2d.git
+1. git clone https://github.com/yourusername/metaquest-2d.git
 2. Open index.html in your browser.
 
 ## How to Play
